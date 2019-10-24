@@ -3,3 +3,17 @@ body{
 }
 
 h1{}
+
+.clicked {
+    color: silver;
+}
+
+.form,
+
+.greetings {
+    display: none;
+}
+
+.showing{
+    display: block;
+}
